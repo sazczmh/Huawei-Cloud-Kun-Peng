@@ -1,0 +1,16 @@
+{
+  "main": "index.html",
+  "name": "Battle",
+  "description": "Code, Surprise yourself!",
+  "version": "0.1.0",
+  "keywords": [ "Battle", "node-webkit" ],
+  "window": {
+    "title": "Battle",
+    "toolbar": false,
+    "frame": true,
+    "resizable": true,
+    "fullscreen": false,
+    "width": 1024,
+    "height": 768
+  }
+}
