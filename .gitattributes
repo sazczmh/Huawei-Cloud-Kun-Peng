@@ -1,1 +1,2 @@
-*.bat linguist-language=python  
+*.bat linguist-language=python3  
+*.js linguist-language=python3  
